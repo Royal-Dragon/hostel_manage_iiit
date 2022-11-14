@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Royal-Dragon/hostel_manage_iiit.git/static/css/main.6d1348cd.css",
+    "main.js": "/Royal-Dragon/hostel_manage_iiit.git/static/js/main.22c97708.js",
+    "static/js/787.262a0fcf.chunk.js": "/Royal-Dragon/hostel_manage_iiit.git/static/js/787.262a0fcf.chunk.js",
+    "static/media/profile.jpg": "/Royal-Dragon/hostel_manage_iiit.git/static/media/profile.ece2650e50f897fcbe93.jpg",
+    "static/media/man1.jfif": "/Royal-Dragon/hostel_manage_iiit.git/static/media/man1.b50148dd24f15c751412.jfif",
+    "static/media/food.png": "/Royal-Dragon/hostel_manage_iiit.git/static/media/food.8747f6b750aaea2b31ac.png",
+    "static/media/man2.jpg": "/Royal-Dragon/hostel_manage_iiit.git/static/media/man2.cc0a91cc1d9c7fc2fa0f.jpg",
+    "static/media/man3.jpg": "/Royal-Dragon/hostel_manage_iiit.git/static/media/man3.640bf54175e7a577de60.jpg",
+    "static/media/roommate.png": "/Royal-Dragon/hostel_manage_iiit.git/static/media/roommate.4c00adbca918d9b45891.png",
+    "static/media/logo-removebg-preview.png": "/Royal-Dragon/hostel_manage_iiit.git/static/media/logo-removebg-preview.0e0494c52301844c4fa8.png",
+    "static/media/student.png": "/Royal-Dragon/hostel_manage_iiit.git/static/media/student.380187c6abeac2d97f38.png",
+    "static/media/undraw_Done_checking_re_6vyx-removebg-preview.png": "/Royal-Dragon/hostel_manage_iiit.git/static/media/undraw_Done_checking_re_6vyx-removebg-preview.bb32af15da524f95ec29.png",
+    "static/media/woman.jpg": "/Royal-Dragon/hostel_manage_iiit.git/static/media/woman.3ec4118887ca0c4c833b.jpg",
+    "index.html": "/Royal-Dragon/hostel_manage_iiit.git/index.html",
+    "main.6d1348cd.css.map": "/Royal-Dragon/hostel_manage_iiit.git/static/css/main.6d1348cd.css.map",
+    "main.22c97708.js.map": "/Royal-Dragon/hostel_manage_iiit.git/static/js/main.22c97708.js.map",
+    "787.262a0fcf.chunk.js.map": "/Royal-Dragon/hostel_manage_iiit.git/static/js/787.262a0fcf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d1348cd.css",
+    "static/js/main.22c97708.js"
+  ]
+}
